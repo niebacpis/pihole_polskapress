@@ -42,9 +42,7 @@ telemagazyn.pl
 extra.telemagazyn.pl
 miastakobiet.pl
 stronazdrowia.pl
-Blogi
 blog.ekstraklasa.net
-E-Budownictwo
 e-aranzacje.pl
 e-budownictwo.pl
 e-dach.pl
@@ -59,9 +57,7 @@ forumbudowlane.pl
 forumogrodowe.pl
 regiodom.pl
 urzadzone.pl
-Dystrybucja
 sud.polskapress.pl
-Biuro Reklamy
 aktywnamalopolska.pl
 biuroreklamykrakow.pl
 flexiformday.pl
